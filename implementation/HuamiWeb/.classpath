@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate3/jta-1.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate3/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate3/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit4.0/junit-4.10.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
